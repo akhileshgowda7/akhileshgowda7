@@ -1,6 +1,6 @@
 - 👋 Hi, I’m akhileshgowda7
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Web Development, DBMS, RDBMS, Algorithms.
+- 🌱 I’m currently learning JavaScript. RDBMS.
 - 📫 How to reach me ...akhileshgowdamr@gmail.com
 
 <!---
