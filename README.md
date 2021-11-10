@@ -1,7 +1,7 @@
 - 👋 Hi, I’m akhileshgowda7
 - 👀 I’m interested in Web Development, Database systems and design.
 - 🌱 I’m currently learning JavaScript. RDBMS.
-- 📫 How to reach me ...akhileshgowdamr@gmail.com
+- 📫 How to reach me ...akhilesh48mr@gmail.com 
 
 <!---
 akhileshgowda7/akhileshgowda7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
