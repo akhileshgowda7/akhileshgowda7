@@ -1,7 +1,7 @@
 - 👋 Hi, I’m akhileshgowda7
 - I'm a Computer Science Masters Student in Indiana University Bloomington 
 - 👀 I’m interested in Web Development, Database systems and design.
-- 🌱 I’m currently learning JavaScript. RDBMS.
+- 🌱 I’m currently learning Angular.
 - 📫 How to reach me ...amandyar@iu.edu 
 
 <!---
