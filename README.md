@@ -8,6 +8,7 @@
 akhileshgowda7/akhileshgowda7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Akhilesh's github stats](https://github-readme-stats.vercel.app/api?username=akhileshgowda7&theme=github_dark)
 
 <div>
   <a href="https://github.com/akhileshgowda7">
